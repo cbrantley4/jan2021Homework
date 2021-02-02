@@ -1,6 +1,6 @@
-#Cameron Brantley
+# Cameron Brantley
 
-##SavvyCoders Instructor
+## SavvyCoders Instructor
 
 #I want to achieve:
 1. See my students succeed
